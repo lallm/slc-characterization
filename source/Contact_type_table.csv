@@ -1,0 +1,13 @@
+Contact Type,Description,New Type
+sb,Salt Bridge,sb
+pc,Pi-Cation,pc
+ps,Pi-Stacking,ps
+ts,T-Stacking,ts
+vdw,Van der Waals,vdw
+hp,Hydrophobic Interactions,hb
+hb,Hydrogen Bond (General),hb
+hbbb,Backbone-Backbone Hydrogen Bond,hb
+hbsb,Backbone-Sidechain Hydrogen Bond,hb
+hbss,Sidechain-Sidechain Hydrogen Bond,hb
+wb,Water-Mediated Hydrogen Bond,wb
+wb2,Extended Water-Mediated Hydrogen Bond,wb

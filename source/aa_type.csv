@@ -1,0 +1,7 @@
+Category	Code	Amino Acids
+Hydrophobic (Nonpolar)	H	ALA, VAL, LEU, ILE, MET, PRO
+Aromatic	A	PHE, TYR, TRP
+Polar (Uncharged)	P	SER, THR, ASN, GLN, CYS
+Positively Charged	PC	LYS, ARG, HIS
+Negatively Charged	NC	ASP, GLU
+Special Cases	SC	GLY (flexible), CYS (disulfide potential)

@@ -1,0 +1,3 @@
+ExpID,MD_MMGBSA_VdW_sum,MD_MMGBSA_Elec_sum,MD_MMGBSA_PolarSolv_sum,MD_MMGBSA_NonPolarSolv_sum,MD_RMSF_sum,Planarity_RMSD_CA,Coords_RMSD_from_Centroid_COM,Planarity_RMSD_COM,MD_Interface_Fraction,Interface_Length,hb,pc,ps,sb,ts,vdw,wb,TotalContactCount,Contact_per_Interface,AF_Fraction_Disordered,MD_MMGBSA_total,MD_MMGBSA_Std_Dev
+
+

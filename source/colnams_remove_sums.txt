@@ -1,0 +1,1 @@
+MD_MMGBSA_VdW_sum,MD_MMGBSA_Elec_sum,MD_MMGBSA_PolarSolv_sum,MD_MMGBSA_NonPolarSolv_sum,MD_RMSF_sum

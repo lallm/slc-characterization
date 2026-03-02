@@ -1,0 +1,65 @@
+Features,Description
+AFDisord,AlphaFold disorder fraction
+ContDens,Contact denstiy
+countHB,Hydrogen bond count
+countPC,Pi-Cation count
+countPS,Pi-stacking count
+countSB,Salt bridge count
+countTS,T-stacking count
+countVdW,Van der Waals count
+countWB,Water bridge count
+ElecMean,Mean electrostatic energy
+ElecSum,Sum electrostatic energy
+EstdDev,Energy standard deviation
+IntFrac,Interface Fraction
+IntLen,Interface Length
+NPSMean,Mean nonpolar solvation
+NPSSum,Sum nonpolar solvation
+PlanCA,Planarity RMSD (Calpha)
+PlanCOM,Planarity RMSD (COM)
+PropA,Proportion aromatic
+PropALA,Proportion alanine
+PropARG,Proportion arginine
+PropASN,Proportion asparagine
+PropASP,Proportion aspartic acid
+PropCYS,Proportion cysteine
+PropGLN,Proportion glutamine
+PropGLU,Proportion glutamic acid
+PropGLY,Proportion glycine
+PropH,Proportion hydrophobic
+PropHB,Proportion H-bonds
+PropHIS,Proportion histidine
+PropILE,Proportion isoleucine
+PropLEU,Proportion leucine
+PropLYS,Proportion lysine
+PropMET,Proportion methionine
+PropNC,Proportion negatively charged
+PropP,Proportion polar
+PropPC,Proportion positively charged
+PropPC,Proportion Pi-Cation
+PropPHE,Proportion phenylalanine
+PropPRO,Proportion proline
+PropPS,Proportion pi-stacking contacts
+PropSB,Proportion salt bridge
+PropSC,Proportion special case
+PropSER,Proportion serine
+PropTHR,Proportion threonine
+PropTRP,Proportion tryptophan
+PropTS,Proportion T-stacking
+PropTYR,Proportion tyrosine
+PropVAL,Proportion valine
+PropVdW,Proportion Van der Waals contacts
+PropWB,Proportion water bridge
+PSMean,Mean polar solvation energy
+PSSum,Sum polar solvation energy
+RMSDca,RMSD from centroid (Calpha)
+RMSDcom,RMSD from centroid (COM)
+RMSFM,Mean root mean square fluctuation
+RMSFSum,Sum root mean square fluctuation
+SSBeta,Proportion beta structure
+SSCoil,Proportion coil structure
+SSHelix,Proportion helix structure
+TotalE,Total binding free energy
+TotCnt,Total contact count
+VdWMean,Mean van der Waals energy
+VdWSum,Sum van der Waals energy

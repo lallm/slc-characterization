@@ -1,0 +1,1 @@
+MD_MMGBSA_VdW_mean,MD_MMGBSA_Elec_mean,MD_MMGBSA_PolarSolv_mean,MD_MMGBSA_NonPolarSolv_mean,MD_RMSF_mean

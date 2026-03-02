@@ -1,0 +1,65 @@
+features,features_abbreviation,description,bayesfactor,lgmrgllh
+Prop_AminoAcidType_NC,PropNC,Proportion negatively charged,202.162298545978,-1216.31499587335
+Prop_AminoAcidType_PC,PropPC,Proportion positively charged,194.673697836319,-1223.80359658301
+Prop_AminoAcidType_H,PropH,Proportion hydrophobic,189.798032716208,-1228.67926170312
+Prop_ResCode_ASP,PropASP,Proportion aspartic acid,139.504607886308,-1278.97268653302
+Prop_ResCode_GLU,PropGLU,Proportion glutamic acid,132.759360189432,-1285.7179342299
+Prop_ResCode_LYS,PropLYS,Proportion lysine,128.126564767291,-1290.35072965204
+Prop_MD_SS_Co,SSCoil,Proportion coil structure,126.968946071165,-1291.50834834817
+Prop_sb,PropSB,Proportion salt bridge,114.467849098426,-1304.0094453209
+Prop_ResCode_LEU,PropLEU,Proportion leucine,99.7185052576335,-1318.7587891617
+Prop_ResCode_ARG,PropARG,Proportion arginine,96.5115163946748,-1321.96577802466
+Prop_AminoAcidType_A,PropA,Proportion aromatic,87.7395147978814,-1330.73777962145
+Prop_MD_SS_He,SSHelix,Proportion helix structure,87.1109006327531,-1331.36639378658
+Prop_ResCode_PHE,PropPHE,Proportion phenylalanine,76.5102301507031,-1341.96706426863
+MD_MMGBSA_PolarSolv_mean,PSMean,Mean polar solvation energy,74.5325896301495,-1343.94470478918
+MD_MMGBSA_Elec_mean,ElecMean,Mean electrostatic energy,73.2151249928388,-1345.26216942649
+Prop_ResCode_GLN,PropGLN,Proportion glutamine,67.3470311357048,-1351.13026328363
+Prop_ResCode_VAL,PropVAL,Proportion valine,61.1771965261378,-1357.30009789319
+Prop_wb,PropWB,Proportion water bridge,58.7186302297307,-1359.7586641896
+MD_MMGBSA_total,TotalE,Total binding free energy,41.3534867399142,-1377.12380767942
+MD_MMGBSA_Elec_sum,ElecSum,Sum electrostatic energy,38.2616445212113,-1380.21564989812
+Coords_RMSD_from_Centroid_CA,RMSDca,RMSD from centroid (Calpha),37.8170509550514,-1380.66024346428
+Coords_RMSD_from_Centroid_COM,RMSDcom,RMSD from centroid (COM),37.3444734200486,-1381.13282099928
+Prop_ResCode_ASN,PropASN,Proportion asparagine,33.5571905489128,-1384.92010387042
+MD_MMGBSA_PolarSolv_sum,PSSum,Sum polar solvation energy,32.9432988782296,-1385.5339955411
+Prop_AminoAcidType_P,PropP,Proportion polar,31.0728502706857,-1387.40444414865
+Prop_ResCode_ILE,PropILE,Proportion isoleucine,30.6174374786119,-1387.85985694072
+MD_MMGBSA_VdW_sum,VdWSum,Sum van der Waals energy,27.5482965712072,-1390.92899784812
+Prop_MD_SS_Be,SSBeta,Proportion beta structure,27.3760146232426,-1391.10127979609
+sb,countSB,Salt bridge count,26.4309169345011,-1392.04637748483
+Prop_ResCode_TRP,PropTRP,Proportion tryptophan,21.3034969616317,-1397.1737974577
+MD_MMGBSA_NonPolarSolv_sum,NPSSum,Sum nonpolar solvation,19.66910227977,-1398.80819213956
+AF_Fraction_Disordered,AFDisord,AlphaFold disorder fraction,19.0878902179891,-1399.38940420134
+Contact_per_Interface,ContDens,Contact denstiy,17.6033067941307,-1400.8739876252
+MD_Interface_Fraction,IntFrac,Interface Fraction,17.2782885738932,-1401.19900584544
+wb,countWB,Water bridge count,16.2699515690099,-1402.20734285032
+MD_MMGBSA_VdW_mean,VdWMean,Mean van der Waals energy,15.9521287904352,-1402.5251656289
+ps,countPS,Pi-stacking count,15.5678634025739,-1402.90943101676
+hb,countHB,Hydrogen bond count,15.4541105693088,-1403.02318385002
+Prop_ts,PropTS,Proportion T-stacking,14.6986187444477,-1403.77867567488
+Interface_Length,IntLen,Interface Length,13.8421276218642,-1404.63516679747
+Prop_ResCode_HIS,PropHIS,Proportion histidine,13.6182125337496,-1404.85908188558
+Prop_pc,PropPC,Proportion Pi-Cation,12.4619746899373,-1406.01531972939
+MD_MMGBSA_NonPolarSolv_mean,NPSMean,Mean nonpolar solvation,9.02559895913441,-1409.4516954602
+vdw,countVdW,Van der Waals count,8.93152130267094,-1409.54577311666
+MD_RMSF_sum,RMSFSum,Sum root mean square fluctuation,7.76219351757823,-1410.71510090175
+Prop_ResCode_SER,PropSER,Proportion serine,7.06373611510094,-1411.41355830423
+Prop_ResCode_PRO,PropPRO,Proportion proline,6.49134740117984,-1411.98594701815
+Prop_vdw,PropVdW,Proportion Van der Waals contacts,6.35284717208742,-1412.12444724724
+Prop_ps,PropPS,Proportion pi-stacking contacts,6.26301993623451,-1412.2142744831
+Prop_ResCode_ALA,PropALA,Proportion alanine,5.44501879357858,-1413.03227562575
+TotalContactCount,TotCnt,Total contact count,3.62501243756287,-1414.85228198177
+Prop_ResCode_CYS,PropCYS,Proportion cysteine,2.31450066955631,-1416.16279374977
+Prop_ResCode_GLY,PropGLY,Proportion glycine,1.93601765821359,-1416.54127676112
+Prop_AminoAcidType_SC,PropSC,Proportion special case,1.93601765821359,-1416.54127676112
+Prop_ResCode_MET,PropMET,Proportion methionine,1.58958909692683,-1416.8877053224
+Prop_ResCode_TYR,PropTYR,Proportion tyrosine,1.40900036103972,-1417.06829405829
+Planarity_RMSD_CA,PlanCA,Planarity RMSD (Calpha),1.14601815803258,-1417.3312762613
+Planarity_RMSD_COM,PlanCOM,Planarity RMSD (COM),0.607445082114282,-1417.86984933722
+MD_MMGBSA_Std_Dev,EstdDev,Energy standard deviation,0.523347714017973,-1417.95394670531
+Prop_hb,PropHB,Proportion H-bonds,0.468345680263155,-1418.00894873907
+Prop_ResCode_THR,PropTHR,Proportion threonine,-2.57487272392609E-06,-1418.4772969942
+pc,countPC,Pi-Cation count,-2.59549437942042E-06,-1418.47729701483
+ts,countTS,T-stacking count,-1.37523152365043,-1419.85252594298
+MD_RMSF_mean,RMSFM,Mean root mean square fluctuation,-1.41723114323304,-1419.89452556256
