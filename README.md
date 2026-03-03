@@ -22,7 +22,7 @@ pip install numpy pandas scikit-learn
 ```
 SLC-characterization/
 ├── source/                # Column name selectors and feature preprocessing configs
-├── ppi.lib/            # ml_lib.py, helpers, eval metrics, for producing the results
+├── ppi.lib/               # helpers, eval metrics, for producing the results
 ├── notebooks/             # Analysis notebooks, where you can see how the functions can be used
 ├── figures/               # Output folder of the generated figures of the notebooks
 └── results/               # Outputs of the calculations (CV, GNN, training results)
