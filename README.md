@@ -16,10 +16,8 @@ We recommend using a conda environment with Python 3.10 or higher.
 conda create -n slc-env python=3.10
 conda activate slc-env
 
-pip install numpy pandas matplotlib scipy statsmodels seaborn scikit-learn ray
+pip install numpy pandas matplotlib scipy statsmodels seaborn scikit-learn 
 ```
-
-> **Note:** `ray` is used for parallelised VBGMM fitting. If you do not intend to re-run clustering from scratch, it is not required for the analysis notebooks.
 
 ---
 
