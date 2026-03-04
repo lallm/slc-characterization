@@ -1,6 +1,6 @@
 # PPI-Characterization
 
-Machine learning-based classification and unsupervised characterization of protein–protein interfaces (PPIs), distinguishing **transmembrane** from **soluble** interfaces. The study compares two feature representations. On the one hand, aggregated physicochemical features and on the other hand Graph Neural Network (GNN) embeddings. Structures are derived from experimentally validated PPIs predicted by AlphaFold3 and refined through molecular dynamics simulations.
+Machine learning-based classification and unsupervised characterization of protein–protein interfaces (PPIs), distinguishing transmembrane from soluble interfaces. The study compares two feature representations. On the one hand, aggregated physicochemical features and on the other hand Graph Neural Network (GNN) embeddings. Structures are derived from experimentally validated PPIs predicted by AlphaFold3 and refined through molecular dynamics simulations.
 
 This repository contains all code and intermediate data required to reproduce the results of the paper.
 
